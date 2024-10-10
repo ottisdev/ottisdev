@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do 0tarcil0 😁
+## Bem-vindo(a) ao perfil do 0tarcilo 😁
 
  <div>
    <a href="https://github.com/ottisdev">
@@ -16,7 +16,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Redes abaixo!
  
 <div> 
   
